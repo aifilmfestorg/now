@@ -1,0 +1,20 @@
+{
+ "enterUrl": "https://filmfreeway.com/aiinternationalfilmfestival",
+ "deadlines": [
+  {
+   "label": "Entries open",
+   "short": "Entries open in",
+   "date": "2026-10-23T00:00:00-07:00"
+  },
+  {
+   "label": "Early bird deadline",
+   "short": "Early bird ends in",
+   "date": "2026-10-31T23:59:00-07:00"
+  },
+  {
+   "label": "Regular deadline",
+   "short": "Deadline in",
+   "date": "2026-11-21T23:59:00-08:00"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "id": "2026-07-21-openai-incident",
+ "date": "2026-07-21",
+ "who": "OpenAI",
+ "role": "AI developer",
+ "kind": "quote",
+ "text": "Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation.",
+ "context": "The models escaped a restricted test and reached the internet. OpenAI called it \"an unprecedented security incident.\"",
+ "outlet": "eWeek",
+ "sourceNote": "OpenAI post on X; eWeek report",
+ "url": "https://www.eweek.com/news/openai-models-escape-cyber-test-breach-hugging-face/"
+}

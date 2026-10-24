@@ -1,0 +1,270 @@
+{
+ "sample": true,
+ "note": "Network layer: sample of countries. Bright layer: confirmed Film Superintelligence winners (16 films, 10 countries).",
+ "countries": [
+  {
+   "name": "United States",
+   "id": "840",
+   "lon": -98,
+   "lat": 39,
+   "fs": [
+    {
+     "title": "Something Wonderful",
+     "who": "Gibran Evans",
+     "award": "Best AI Superintelligence",
+     "date": "October 2026",
+     "still": "media/img/fs-something-wonderful.jpg",
+     "clip": "media/clips/something-wonderful.mp4"
+    },
+    {
+     "title": "Nadhir — Episode 1",
+     "who": "Tarek Fahmy",
+     "award": "Best Web/TV Series · Best AI Superintelligence",
+     "date": "August 2026",
+     "still": "media/img/fs-nadhir.jpg",
+     "clip": "media/clips/nadhir.mp4"
+    },
+    {
+     "title": "Between Spaces",
+     "who": "Bryan Ebzery",
+     "award": "Best AI Short · Best AI Warfare",
+     "date": "September 2025",
+     "still": "media/img/fs-between-spaces.jpg",
+     "clip": "media/clips/between-spaces.mp4"
+    },
+    {
+     "title": "KLiKFaRM",
+     "who": "Brendon Graham, Dave Uchansky",
+     "award": "Best AI Short Film · Best AI Addiction Film",
+     "date": "August 2025",
+     "still": "media/img/fs-klikfarm.jpg",
+     "clip": "media/clips/klikfarm.mp4"
+    },
+    {
+     "title": "D.I.C.E.",
+     "who": "James Jones",
+     "award": "Best Universal Surveillance Film",
+     "date": "June 2025",
+     "still": "media/img/fs-dice.jpg",
+     "clip": "media/clips/dice.mp4"
+    },
+    {
+     "title": "Newton's Cradle",
+     "who": "Jeff Synthesized",
+     "award": "Best Costume · Best Universal Surveillance",
+     "date": "April 2025",
+     "still": "media/img/fs-newtons-cradle.jpg",
+     "clip": "media/clips/newtons-cradle.mp4"
+    },
+    {
+     "title": "The Paperclip Maximizer - Reimagined",
+     "who": "Jeff Synthesized",
+     "award": "Best Superintelligence Film",
+     "date": "March 2025",
+     "still": "media/img/fs-paperclip.jpg",
+     "clip": "media/clips/paperclip.mp4"
+    }
+   ]
+  },
+  {
+   "name": "India",
+   "id": "356",
+   "lon": 79,
+   "lat": 22,
+   "fs": [
+    {
+     "title": "The Interview",
+     "who": "Vinu Joseph",
+     "award": "Best Film Overall · Best Superintelligence",
+     "date": "May 2026",
+     "still": "media/img/fs-the-interview.jpg",
+     "clip": "media/clips/the-interview.mp4"
+    }
+   ]
+  },
+  {
+   "name": "United Arab Emirates",
+   "id": "784",
+   "lon": 54,
+   "lat": 24,
+   "fs": []
+  },
+  {
+   "name": "Japan",
+   "id": "392",
+   "lon": 138,
+   "lat": 36,
+   "fs": []
+  },
+  {
+   "name": "China",
+   "id": "156",
+   "lon": 104,
+   "lat": 35,
+   "fs": [
+    {
+     "title": "Planet 1001: AI-Reconstructed Terrestrial Archives",
+     "who": "Hui Kuang, Junshu Fang",
+     "award": "Best Superintelligence Film",
+     "date": "August 2025",
+     "still": "media/img/fs-planet-1001.jpg",
+     "clip": "media/clips/planet-1001.mp4"
+    }
+   ]
+  },
+  {
+   "name": "South Korea",
+   "id": "410",
+   "lon": 127.8,
+   "lat": 36.4,
+   "fs": []
+  },
+  {
+   "name": "Singapore",
+   "id": "702",
+   "lon": 103.8,
+   "lat": 1.35,
+   "fs": [
+    {
+     "title": "The Lion Amongst Us",
+     "who": "Eddie Tyler Wong",
+     "award": "Best Superintelligence",
+     "date": "March 2026",
+     "still": "media/img/fs-lion.jpg",
+     "clip": "media/clips/lion.mp4"
+    }
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "id": "360",
+   "lon": 113,
+   "lat": -1,
+   "fs": []
+  },
+  {
+   "name": "Russia",
+   "id": "643",
+   "lon": 60,
+   "lat": 57,
+   "fs": []
+  },
+  {
+   "name": "Romania",
+   "id": "642",
+   "lon": 25,
+   "lat": 46,
+   "fs": []
+  },
+  {
+   "name": "Italy",
+   "id": "380",
+   "lon": 12.5,
+   "lat": 42.5,
+   "fs": [
+    {
+     "title": "Broken Mirror",
+     "who": "Andrea Balestrero",
+     "award": "Best Art Direction · Best Universal Surveillance",
+     "date": "March 2025",
+     "still": "media/img/fs-broken-mirror.jpg",
+     "clip": "media/clips/broken-mirror.mp4"
+    }
+   ]
+  },
+  {
+   "name": "Iran",
+   "id": "364",
+   "lon": 53,
+   "lat": 32.5,
+   "fs": []
+  },
+  {
+   "name": "United Kingdom",
+   "id": "826",
+   "lon": -2,
+   "lat": 53,
+   "fs": [
+    {
+     "title": "Screenshot Souls",
+     "who": "David Alassian",
+     "award": "Best Original Song · Best Superintelligence",
+     "date": "June 2026",
+     "still": "media/img/fs-screenshot-souls.jpg",
+     "clip": "media/clips/screenshot-souls.mp4"
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "id": "036",
+   "lon": 134,
+   "lat": -25,
+   "fs": []
+  },
+  {
+   "name": "Switzerland",
+   "id": "756",
+   "lon": 8.2,
+   "lat": 46.8,
+   "fs": [
+    {
+     "title": "Mamma Robot",
+     "who": "Elettra Fiumi",
+     "award": "Best Superintelligence Film · Best Story",
+     "date": "December 2025",
+     "still": "media/img/fs-mamma-robot.jpg",
+     "clip": "media/clips/mamma-robot.mp4"
+    }
+   ]
+  },
+  {
+   "name": "Pakistan",
+   "id": "586",
+   "lon": 69.3,
+   "lat": 30.4,
+   "fs": [
+    {
+     "title": "Shor (Noise)",
+     "who": "Suhaib Rashdi",
+     "award": "Best AI Addiction · Best Experimental · Best AI Visuals · Best Director",
+     "date": "September 2025",
+     "still": "media/img/fs-shor.jpg",
+     "clip": "media/clips/shor.mp4"
+    }
+   ]
+  },
+  {
+   "name": "France",
+   "id": "250",
+   "lon": 2.2,
+   "lat": 46.6,
+   "fs": [
+    {
+     "title": "Cosmic Love",
+     "who": "Alphonse Marcel",
+     "award": "Best Screenplay · Best Original Score · Best AI Warfare Film",
+     "date": "May 2025",
+     "still": "media/img/fs-cosmic-love.jpg",
+     "clip": "media/clips/cosmic-love.mp4"
+    }
+   ]
+  },
+  {
+   "name": "Spain",
+   "id": "724",
+   "lon": -3.7,
+   "lat": 40.2,
+   "fs": [
+    {
+     "title": "All Dogs Go To Heaven",
+     "who": "Sebastián C. Santisteban",
+     "award": "Best Neural Chip Film · Best Live Action Short",
+     "date": "March 2025",
+     "still": "media/img/fs-all-dogs.jpg",
+     "clip": "media/clips/all-dogs.mp4"
+    }
+   ]
+  }
+ ]
+}
