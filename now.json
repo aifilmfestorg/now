@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-23",
- "count": 29,
+ "count": 31,
  "items": [
   {
    "id": "2026-10-13-imf-ai-correction",
@@ -13,6 +13,30 @@
    "outlet": "The Guardian",
    "sourceNote": "IMF Global Financial Stability Report, October 2026; also reported by Reuters",
    "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
+  },
+  {
+   "id": "2026-10-13-hinton-second-chance",
+   "date": "2026-10-13",
+   "who": "Geoffrey Hinton",
+   "role": "Nobel laureate in physics; AI pioneer",
+   "kind": "quote",
+   "text": "The unique problem with AI is that if it goes wrong, if it takes over, you don't get a second chance.",
+   "context": "In a Guardian interview, warning that humans are creating “alien beings.”",
+   "outlet": "The Guardian",
+   "sourceNote": "Interview, October 13, 2026; also reported by Benzinga",
+   "url": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech"
+  },
+  {
+   "id": "2026-10-12-sanders-ban",
+   "date": "2026-10-12",
+   "who": "Bernie Sanders",
+   "role": "US Senator, Vermont",
+   "kind": "quote",
+   "text": "We must PAUSE advanced AI and permanently BAN artificial superintelligence before it is too late.",
+   "context": "Responding on X to Sam Altman, who said people may have to accept “fairly severe cyber incidents” in exchange for liberty.",
+   "outlet": "The Hill",
+   "sourceNote": "Post on X, October 12, 2026; also reported by Benzinga",
+   "url": "https://thehill.com/homenews/senate/6144432-sanders-calls-ai-ban/"
   },
   {
    "id": "2026-10-12-brad-smith-milk",
