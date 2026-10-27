@@ -47,5 +47,5 @@ GitHub Pages updates within a minute or two. Corrections: edit the item file, re
 
 ## Other data the homepage reads
 
-- `site.json`: `enterUrl` (where every Enter button goes) and `deadlines`, a list of `{label, short, date}` with ISO date-times such as `2026-11-21T23:59:00-08:00`. The countdown always shows the next deadline still ahead.
+- `site.json`: `enterUrl` (where every Submit your film button goes) and `deadlines`, a list of `{label, short, date}` with ISO date-times such as `2026-11-21T23:59:00-08:00`. The countdown always shows the next deadline still ahead.
 - `atlas.json`: countries for the Atlas globe. `fs` lists confirmed Film Superintelligence winners only. While `sample` is true, the dimmer network layer is a placeholder.

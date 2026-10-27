@@ -114,7 +114,7 @@ def head(title, desc, url, extra=""):
             f'<link rel="alternate" type="application/rss+xml" title="Right Now" href="{BASE}/feed.xml">'
             f'{extra}<style>{STYLE}</style></head><body><div class="wrap">'
             f'<header><a class="wm" href="{HOME}">Film <span>Superintelligence</span></a>'
-            f'<a class="enter" href="{HOME}">Enter your film</a></header>')
+            f'<a class="enter" href="https://filmfreeway.com/filmsuperintelligence">Submit your film</a></header>')
 
 
 FOOT = ('<footer>Right Now is part of <a href="' + HOME + '">Film Superintelligence</a>, a global film challenge. '
